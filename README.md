@@ -2,6 +2,12 @@
 
 Bloggy is a modern, full-stack blog application built with React, Node.js, and PostgreSQL. It features a beautiful UI, secure authentication, and rich content management capabilities.
 
+
+
+https://github.com/user-attachments/assets/ccf4af77-8842-421c-afef-a1af40a572b5
+
+
+
 ## 🚀 Features
 
 - **User Authentication**: Secure sign-up and sign-in using [Clerk](https://clerk.com/).
